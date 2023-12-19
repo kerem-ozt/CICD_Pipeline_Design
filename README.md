@@ -188,7 +188,3 @@ Below, the running pods, the status of the pod we deployed and the service logs 
 ![](https://gitlab.com/mkeremozt/Tournament-Management-API/-/raw/main/images/13.png)
 
 ![](https://gitlab.com/mkeremozt/Tournament-Management-API/-/raw/main/images/14.png)
-
-A sample project with an interface was run on the cluster as an external example. As can be seen in the URL, the port was accessed by exporting it.
-
-![](https://gitlab.com/mkeremozt/Tournament-Management-API/-/raw/main/images/15.png)
