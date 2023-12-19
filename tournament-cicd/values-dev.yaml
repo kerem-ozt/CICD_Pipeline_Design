@@ -1,0 +1,11 @@
+# appName: tournament-cicd
+
+# port: 3001
+
+namespace: dev
+
+configmap:
+  name: myhelmapp-configmap-v1
+  data:
+    CUSTOM_HEADER: 'DEV | This app was deployed with helm!'
+    
